@@ -3,3 +3,7 @@ hello goodbye
 hello
 hi how are you
 welcome
+bank 
+tree
+college
+classes
